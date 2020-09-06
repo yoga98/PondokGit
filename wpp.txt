@@ -1,3 +1,10 @@
 Selamat Datang Calaon calon Santri/i Pondok It
 memiliki banyak jurusan 
 yang asaramanya untuk wanita dan laki laki terpisah 
+Selamat Datang di Web Program Pondok It
+yang mempunyai  4 Jurusan 
+ ^Programmer
+ ^Multimedia
+ ^Manajemen
+ ^Imers
+semoga bermanfaat
